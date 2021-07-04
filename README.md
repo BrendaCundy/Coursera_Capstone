@@ -13,3 +13,5 @@ Due to my over enthuisasm extensive analysis was conducted on multiple datasourc
 7 Analysis Foursquare venues    
 
 Data is extracted and transformed in the "Data exploration" notebooks which create inputs to the analysis ones.  
+
+Note 2, 3 and 7 were too large to upload with folium visualisations, so this output has been removed and a reduced version uploaded.  Pdfs of the full version have been included
